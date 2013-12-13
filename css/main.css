@@ -65,5 +65,6 @@ a.button-link:active {
 footer {
   font-size: .75em;
   margin-top: 25%;
+  margin-bottom: 5%;
 }
 footer span { font-size: .75em; }
